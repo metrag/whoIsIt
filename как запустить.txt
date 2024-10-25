@@ -1,0 +1,4 @@
+1) Установить python
+2) pip install torch
+3) из корня  проекта запустить команду python app.py
+4) в браузере пройти по адресу:  http://localhost:8080/
